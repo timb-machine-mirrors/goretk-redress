@@ -11,6 +11,6 @@ require (
 
 require (
 	github.com/blacktop/go-dwarf v1.0.14 // indirect
-	github.com/blacktop/go-macho v1.1.244 // indirect
+	github.com/blacktop/go-macho v1.1.245 // indirect
 	golang.org/x/arch v0.15.0 // indirect
 )

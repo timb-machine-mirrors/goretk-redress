@@ -1,6 +1,6 @@
 module github.com/goretk/redress
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.1
 
@@ -12,5 +12,5 @@ require (
 require (
 	github.com/blacktop/go-dwarf v1.0.14 // indirect
 	github.com/blacktop/go-macho v1.1.249 // indirect
-	golang.org/x/arch v0.20.0 // indirect
+	golang.org/x/arch v0.21.0 // indirect
 )

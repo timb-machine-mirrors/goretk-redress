@@ -4,11 +4,11 @@ go 1.25.0
 
 require (
 	github.com/TcM1911/r2g2 v0.3.2
-	github.com/goretk/gore v0.13.26
+	github.com/goretk/gore v0.13.27
 )
 
 require (
 	github.com/blacktop/go-dwarf v1.0.14 // indirect
-	github.com/blacktop/go-macho v1.1.270 // indirect
+	github.com/blacktop/go-macho v1.1.271 // indirect
 	golang.org/x/arch v0.25.0 // indirect
 )

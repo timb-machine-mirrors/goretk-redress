@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/TcM1911/r2g2 v0.3.2
-	github.com/goretk/gore v0.13.27
+	github.com/goretk/gore v0.13.28
 )
 
 require (

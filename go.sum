@@ -6,8 +6,8 @@ github.com/blacktop/go-macho v1.1.273 h1:VrHrC/YlufX2PZYdHhvw7FtnAoYNhJoYdKWQeeO
 github.com/blacktop/go-macho v1.1.273/go.mod h1:Hc5E2Lvt/U1VT+jOxr1O5l/LNFJeMYK4eAmDfazTiGc=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/goretk/gore v0.13.28 h1:M++qlN+MQ6V1GR9N+frcMNeuwODlir47QVEqDetj8N8=
-github.com/goretk/gore v0.13.28/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
+github.com/goretk/gore v0.13.29 h1:mbrnbZdil3xEEsnIrqnKJEm9tV6r4qcVZsFggTX0FZ4=
+github.com/goretk/gore v0.13.29/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
 github.com/matryer/is v1.4.0 h1:sosSmIWwkYITGrxZ25ULNDeKiMNzFSr4V/eqBQP0PeE=
 github.com/matryer/is v1.4.0/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

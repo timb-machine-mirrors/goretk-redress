@@ -9,7 +9,7 @@ require (
 
 require (
 	github.com/blacktop/go-dwarf v1.1.0 // indirect
-	github.com/blacktop/go-macho v1.1.297 // indirect
+	github.com/blacktop/go-macho v1.1.298 // indirect
 	github.com/eliben/watgo v0.9.0 // indirect
 	golang.org/x/arch v0.33.0 // indirect
 )
